@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315453599309",
+    "project_id": "attenadancec",
+    "storage_bucket": "attenadancec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315453599309:android:787a7d737de65d8b41b604",
+        "android_client_info": {
+          "package_name": "com.example.attendancec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315453599309-k20vaf8im2t851atjik7rc54sklgkrn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfxURJGCAlr4YLuJ_-0bpCKhUUja-lxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315453599309-k20vaf8im2t851atjik7rc54sklgkrn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
